@@ -96,20 +96,6 @@ const omkar = {
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar6488&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar6488&theme=radical&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar6488&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar6488&theme=radical&hide_border=true" height="170"/>
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 ```python
