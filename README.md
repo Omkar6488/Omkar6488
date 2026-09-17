@@ -4,13 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Design+Undergraduate;MERN+STACK+%7C+GraphRAG+%7C+LLMs+%7C+Unity;Building+AI-Powered+Solutions;Learning%2C+Building%2C+Improving)](https://git.io/typing-svg)
 
-</div>
-
-╔═══════════════════════════════════════════════════════════════╗
-║ B.Tech CSD @ KKWIEER, Nashik  •  CGPA 8.69  •  Batch of 2027 ║
-╚═══════════════════════════════════════════════════════════════╝
-
 <div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+🎓 <b>B.Tech CSD @ KKWIEER, Nashik</b> &nbsp; • &nbsp;
+<b>CGPA 8.69</b> &nbsp; • &nbsp;
+<b>Batch of 2027</b>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-more-504417320/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkar6488)
